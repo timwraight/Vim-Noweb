@@ -1,3 +1,5 @@
-This is just a clone of the noweb.vim script hosted on [vim.org] [1].
+# Vim-Noweb #
+
+This was originally just a clone of the noweb.vim script hosted on [vim.org] [1], but is now being actively maintained by Giel van Schijndel. Please refer to [his repo][https://github.com/muggenhor/Vim-Noweb] rather than this one.
 
 [1]: http://www.vim.org/scripts/script.php?script_id=3038
